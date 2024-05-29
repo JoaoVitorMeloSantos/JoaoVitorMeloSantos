@@ -14,11 +14,12 @@ Sou um estudante de Sistemas de Informação pelo IFMG (Instituto Federal de Edu
 ### Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-de-melo-santos-47739327b/)
 
-## GitHub Stats e Top Langs
-<div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaovitormelosantos&show_icons=true&theme=dark&icon_color=64FFDA&hide_border=true" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitormelosantos&layout=compact&langs_count=10&theme=dark&icon_color=64FFDA&bg_color=0D1B2A" width="400px" style="margin-left: 10px;" />
-</div>
+## GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=joaovitormelosantos&show_icons=true&theme=dark&icon_color=64FFDA&hide_border=true"/>
+
+## Top Langs
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitormelosantos&layout=compact&langs_count=10&theme=dark&icon_color=64FFDA&bg_color=0D1B2A"/>
+
 
 ## Tecnologias que estudo 🧑🏻‍💻
 <div style="display: inline_block; text-align: center">
