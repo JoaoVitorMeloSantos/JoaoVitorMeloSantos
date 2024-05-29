@@ -17,7 +17,7 @@ Sou um estudante de Sistemas de Informação pelo IFMG (Instituto Federal de Edu
 ## GitHub Stats e Top Langs
 <div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api?username=joaovitormelosantos&show_icons=true&theme=dark&icon_color=64FFDA&hide_border=true" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitormelosantos&layout=compact&langs_count=10&hide_progress=true&theme=dark&icon_color=64FFDA&bg_color=0D1B2A" width="400px" style="margin-left: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitormelosantos&layout=compact&langs_count=10&theme=dark&icon_color=64FFDA&bg_color=0D1B2A" width="400px" style="margin-left: 10px;" />
 </div>
 
 ## Tecnologias que estudo 🧑🏻‍💻
