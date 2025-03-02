@@ -1,6 +1,6 @@
 # Olá! Eu sou o João Vítor 🖐️
 
-Sou um estudante de Sistemas de Informação pelo IFMG (Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais), atualmente no 5° período. Estou focado em aprimorar minhas habilidades e expandir meus conhecimentos na área de tecnologia. Também, busco novas oportunidades para aplicar e desenvolver minhas habilidades.
+Sou um estudante de Sistemas de Informação pelo IFMG (Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais), atualmente no 6° período. Estou focado em aprimorar minhas habilidades e expandir meus conhecimentos na área de tecnologia. Também, busco novas oportunidades para aplicar e desenvolver minhas habilidades.
 
 ### Instituição que estudo
 [![IFMG](https://img.shields.io/badge/IFMG--green)](https://www.ifmg.edu.br/sabara/nossos-cursos/nivel-superior/sistemas-da-informacao)
